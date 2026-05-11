@@ -1,8 +1,0 @@
-{
-  "name": "create-nx-package",
-  "description": "Resources for working with NX packages",
-  "version": "1.0.3",
-  "author": {
-    "name": "Cédric Teyton"
-  }
-}

@@ -5,9 +5,9 @@
   },
   "plugins": [
     {
-      "name": "create-nx-package",
-      "source": "./plugins/create-nx-package",
-      "description": "Resources for working with NX packages",
+      "name": "nx",
+      "source": "./plugins/nx",
+      "description": "Resources for working with NX",
       "version": "1.0.3"
     }
   ]
