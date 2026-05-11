@@ -1,0 +1,14 @@
+{
+  "name": "backend-marketplace",
+  "owner": {
+    "name": "Cédric Teyton"
+  },
+  "plugins": [
+    {
+      "name": "create-nx-package",
+      "source": "./plugins/create-nx-package",
+      "description": "Resources for working with NX packages",
+      "version": "1.0.3"
+    }
+  ]
+}
