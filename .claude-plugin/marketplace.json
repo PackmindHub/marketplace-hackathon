@@ -9,6 +9,12 @@
       "source": "./plugins/nx",
       "description": "Resources for working with NX",
       "version": "1.0.5"
+    },
+    {
+      "name": "git",
+      "source": "./plugins/git",
+      "description": "Resources for working with Git with our conventions",
+      "version": "2.0.0"
     }
   ]
 }

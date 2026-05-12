@@ -1,0 +1,8 @@
+{
+  "name": "git",
+  "description": "Resources for working with Git with our conventions",
+  "version": "2.0.0",
+  "author": {
+    "name": "Cédric Teyton"
+  }
+}
