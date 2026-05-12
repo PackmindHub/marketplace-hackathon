@@ -1,7 +1,7 @@
 {
   "name": "nx",
   "description": "Resources for working with NX",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "author": {
     "name": "Cédric Teyton"
   }

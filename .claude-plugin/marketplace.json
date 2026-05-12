@@ -8,7 +8,7 @@
       "name": "nx",
       "source": "./plugins/nx",
       "description": "Resources for working with NX",
-      "version": "1.0.7"
+      "version": "1.0.8"
     },
     {
       "name": "git",
