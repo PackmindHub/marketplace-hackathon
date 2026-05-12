@@ -1,0 +1,16 @@
+{
+  "extraKnownMarketplaces": {
+    "packmind": {
+      "source": {
+        "source": "git",
+        "url": "https://github.com/PackmindHub/packmind-proprietary.git",
+        "path": "packmind-marketplace/.claude-plugin/marketplace.json",
+        "ref": "hackathon/cte-sdr-vpr-2026-05-11"
+      },
+      "autoUpdate": true
+    }
+  },
+  "enabledPlugins": {
+    "packmind@packmind": true
+  }
+}
