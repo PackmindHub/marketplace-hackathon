@@ -20,7 +20,7 @@
       "name": "front",
       "source": "./plugins/front",
       "description": "",
-      "version": "1.0.1"
+      "version": "1.0.2"
     }
   ]
 }
