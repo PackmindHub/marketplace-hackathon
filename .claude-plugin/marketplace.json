@@ -15,12 +15,6 @@
       "source": "./plugins/git",
       "description": "Resources for working with Git with our conventions",
       "version": "2.0.0"
-    },
-    {
-      "name": "front",
-      "source": "./plugins/front",
-      "description": "",
-      "version": "1.0.0"
     }
   ]
 }
