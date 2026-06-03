@@ -5,16 +5,30 @@
   },
   "plugins": [
     {
+      "slug": "nx",
       "name": "nx",
-      "source": "./plugins/nx",
-      "description": "Resources for working with NX",
       "version": "1.0.9"
     },
     {
+      "slug": "git",
       "name": "git",
-      "source": "./plugins/git",
-      "description": "Resources for working with Git with our conventions",
       "version": "2.0.0"
+    },
+    {
+      "slug": "whatever",
+      "name": "Whatever",
+      "version": "0.1.0"
     }
-  ]
+  ],
+  "packmindLock": {
+    "schemaVersion": 1,
+    "plugins": {
+      "whatever": {
+        "version": "0.1.0",
+        "contentHash": "1fb07afa64c0dfa7a89762c31e894f211b45c7b0f7d0752cfe8ca16a684b2599",
+        "lastPublishedAt": "2026-06-03T09:19:36.673Z",
+        "lastPublishedBy": "22f916a6-7c9d-4212-a3d1-53ee49ff09f3"
+      }
+    }
+  }
 }
