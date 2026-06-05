@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "plugins": {
+    "demo-package": {
+      "version": "0.1.0",
+      "contentHash": "5e71323a132043b6ec738d2a1f35e18651d04a0e2fa117dcbe4b6e0e8f12a049",
+      "lastPublishedAt": "2026-06-05T12:37:06.592Z",
+      "lastPublishedBy": "d28b286b-4741-4bf9-b8ef-e0179d330067"
+    }
+  }
+}
