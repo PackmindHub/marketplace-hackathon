@@ -5,16 +5,29 @@
   },
   "plugins": [
     {
+      "slug": "nx",
       "name": "nx",
-      "source": "./plugins/nx",
-      "description": "Resources for working with NX",
       "version": "1.0.9"
     },
     {
+      "slug": "git",
       "name": "git",
-      "source": "./plugins/git",
-      "description": "Resources for working with Git with our conventions",
       "version": "2.0.0"
+    },
+    {
+      "slug": "whatever",
+      "name": "Whatever",
+      "version": "0.1.0"
+    },
+    {
+      "slug": "demo-package",
+      "name": "Demo package",
+      "version": "0.1.0",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/PackmindHub/marketplace-hackathon.git",
+        "path": "plugins/demo-package"
+      }
     }
   ]
 }
